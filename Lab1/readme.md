@@ -1,6 +1,5 @@
 # Executive Summary
-
-The purpose of Lab 1 is to familiarize yourself with the way the IT 1025 course will be run, the beginnings of computing, and gain started using GitHub. You will also become familiar with the use of "markdown" language. The readings will give you interesting history, such as the creation of the PC and the World Wide Web.
+The purpose of Lab 1 is to familiarize yourself with the way the IT 1025 course will be run, the beginnings of computing, and gain experience using GitHub. You will also become familiar with the use of "markdown" language. The readings will give you some history of information systems, such as the creation of the PC and the World Wide Web.
 ## Information Systems Components
 1. Hardware
 
@@ -23,4 +22,4 @@ Client-server architecture is the connectiong of computers to collaborate and sh
 ### Cloud Computing
 Cloud computing gives people mobile access to data and appliations. An example of this is Dropbox which allows you to upload files for sharing that can be accessed from any device with internet once uploaded.
 # Conclusion
-After completing Lab 1 I gained an overview for the expectations of the IT 1025 course, some background on the creation of information systems, and some experience using GitHub. I had an issue figuring out the formatting for the "markdown" language at first. After reviewing the examples and saving my work to see what the formatting looked like as I entered information, I was able to understand it. I believe the lab provided me with a better understanding of what to expect moving forward and I am excited to keep learning more. 
+After completing Lab 1 I gained an overview for the expectations of the IT 1025 course, some background on the creation of information systems, and some experience using GitHub. I had an issue figuring out the formatting for the "markdown" language at first. After reviewing the examples and using the preview changes tab to see what the formatting looked like as I entered information, I was able to understand it. I believe the lab provided me with a better understanding of what to expect moving forward and I am excited to keep learning more. 
