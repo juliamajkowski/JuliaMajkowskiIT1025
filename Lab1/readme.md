@@ -1,5 +1,5 @@
 # Executive Summary
-The purpose of Lab 1 is to familiarize yourself with the way the IT 1025 course will be run, the beginnings of computing, and gain experience using GitHub. You will also become familiar with the use of "markdown" language. The readings will give you some history on information systems, such as the creation of the PC and the World Wide Web.
+The purpose of Lab 1 is to familiarize yourself with the way the IT 1025 course will be run, the beginnings of information systems, and gain experience using GitHub. You will also become familiar with the use of "markdown" language. The readings will give you some history on information systems, such as the creation of the PC and the World Wide Web.
 ## Information Systems Components
 1. Hardware
 
