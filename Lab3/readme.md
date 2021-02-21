@@ -24,3 +24,6 @@ There are three major IT certifications programs, CompTIA, Cisco and CISSP. Comp
 
 ### Certificates 
 One certificate program offered at TriC is the Post-Degree certificate in programming and development. This certificate demonstrates the ability to operate in a diverse environment, explain and implement technologies impacted by ethical and legal issues, plan, organize and prioritize to meet deadlines, and apply various programming knowledge. 
+
+### Co-ops/Internships
+To become co-op ready you must be a TriC student, complete 12 hous of course work with 2 courses being related to your major field and have a GPA of 2.75 or higher. The benefits of a co-op are the real world experience gained, the hands-on learning 
