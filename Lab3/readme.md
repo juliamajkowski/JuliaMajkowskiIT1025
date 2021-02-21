@@ -1,5 +1,5 @@
 # Exeutive Summary
-The purpose of this lab is to explore the software aspect of computing further. How operating systems, application and utility are used within software will be explained. Then the use of virtualization will be visited. Python will be read about an then used to gain some experience and understanding of how it works and why you would use it. Finally, careers in computing will be looked into including, certificates, the co-op program and the purpose of a specific choice company will be explained.
+The purpose of this lab is to explore the software aspect of computing further. How operating systems, application and utility are used within software will be explained. Then the use of virtualization will be visited. Python will be read about an then used to gain some experience and understanding of how it works and why you would use it. Finally, careers in computing will be looked into as well as certificates, the co-op program and student and professional clubs/organizations.
 
 ## Software
 There are various aspects to the software part of a computing system. The operation system, such as windows or mac, manages all of the hardware, provides user interface components, and provides a place for application writing. The second part of a software system is the application. This is for specific functions such as word processing or internet browsing via microsoft word or google chrome for example. The final aspect is the utility aspect, this allows you to modify your system in some way such as anti-malware systems like Norton. 
@@ -26,4 +26,9 @@ There are three major IT certifications programs, CompTIA, Cisco and CISSP. Comp
 One certificate program offered at TriC is the Post-Degree certificate in programming and development. This certificate demonstrates the ability to operate in a diverse environment, explain and implement technologies impacted by ethical and legal issues, plan, organize and prioritize to meet deadlines, and apply various programming knowledge. 
 
 ### Co-ops/Internships
-To become co-op ready you must be a TriC student, complete 12 hous of course work with 2 courses being related to your major field and have a GPA of 2.75 or higher. The benefits of a co-op are the real world experience gained, the hands-on learning 
+To become co-op ready you must be a TriC student, complete 12 hous of course work with 2 courses being related to your major field and have a GPA of 2.75 or higher. The benefits of a co-op are the real world experience gained, the hands-on learning and being paid while still getting credit as if you took a course. 
+
+### Industry Associations and Student Organizations
+The purpose of the ACM-W is to support, celebrate and advocate for the full engagement of women in computing. They provide a wide range of programs and services to advance the technical contributions of women in computing. Membership would be beneficial because you gain acccess to the diferent types of research being conducted and create contacts with the researchers that are conducting it. You also will be inform about educational and jo opportunities avaiable to you. 
+
+# Summary
