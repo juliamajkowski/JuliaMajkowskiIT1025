@@ -13,3 +13,14 @@ Virtualization and cloud computing are often confused. Virtualization is a techn
 
 ## Python
 Python is a programming language that is simple and powerful. It has a pseudo-code nature, meaning it is meant for human reading and not machine reading. Python is an interprated language. This means it is run from the source code and doesn't require a software to copy the program to the hard disk and then run it. Complied programs like C++ have to be converted into binary and need the software aspect in order to run the program. 
+
+## Career Exploration
+### College Central
+The college central site functions similar to the typical web job board. You can upload a resume, search for jobs, internships or volunteer positions and listen to different career podcasts. 
+Using the Bearu of Labor statistics shows that for software developers, the job rate is growing faster than expected at 22%, the median pay is around $107k, and the typical entry level degree is a Bachelor's. 
+
+### Certifications
+There are three major IT certifications programs, CompTIA, Cisco and CISSP. CompTIA uses behavioral analytics to detect and combat cybersecurity threats. Cisco offers certification in a variety of topics and four levels of certification depending on your needs. Certification shows competence as a professional to install, configure, operate and troubleshoot routed and switched networks. CISSP certification demonstartes the ability to design, implement and manage cybersecurity systems. 
+
+### Certificates 
+One certificate program offered at TriC is the Post-Degree certificate in programming and development. This certificate demonstrates the ability to operate in a diverse environment, explain and implement technologies impacted by ethical and legal issues, plan, organize and prioritize to meet deadlines, and apply various programming knowledge. 
