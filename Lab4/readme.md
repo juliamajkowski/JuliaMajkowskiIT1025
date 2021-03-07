@@ -11,3 +11,12 @@ An assignment statement consists of a variable, equal sign, and a value. For exa
 A function evaluatess the information entered into it accordingly. For example the len() function takes a string and evaluates it into an integer of the number of characters in the string.
 
 There are three data types in Python. One is integers,1 2 3 etc., one is floating-point numbers, 1.0 2.0 0.5 etc, and one is strings,'a' 'ab' 'hello'.
+## Graphics
+### Raster vs. Vector
+Raster images use tiny pixels to make up a larger image. They are not noticeable unless you zoom in or enlarge the image. Vector images are created using a special form of geometry so they do not lose quality when changing size.
+### Lossless vs. Lossy Compression
+Losless compression preserves all of the data from the original image file which results in larger file sizes. Lossy compression removes some data from the original file and saves the image with a reduced file size. 
+### File Types
+There are three main file types used in web images, JPEG,  PNG, and GIF. JPEG and PNG both are motionless images. However JPEG is better for low contrast images and simple images. PNG is better for high contrast images, images that require transparency, and more complex illustrations. GIF stands more alone as it is a animated image. It is best for line drawings and simple graphics or images that need animation.
+### File Properties
+The image desing I created is a pair of shears and a comb in a piece of hair with my Instagram handle to use as a logo for my pages. It took 4 layers, one for each image piece and one for the text with the handle name. The file size is 75.7 KB. It opens the file in the internet browser that is installed on the computer because it was created on a design website so there are not any other programs installed for it to open on currently.
