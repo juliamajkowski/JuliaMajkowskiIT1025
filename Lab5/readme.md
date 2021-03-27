@@ -37,3 +37,13 @@ Once someone's identity is authenticated, a lot of times they are only given acc
 When encypting data, the software recieves the plain text and then encodes it to be sent to the recipient. The recipient recieves it as cipher text and decodes it back to plain text. One common form of encoding and decoding is public key encription. This uses a public key and a private key. To encode soeone would obtain a public key, encode and then send the message. The recipient would then use their private key to decode it. The public key is given to anyone who needs to send the reciver a message but the private key is required to decode the information sent with the public key. 
 
 Public key cryptography is very important today. It allows people to send encoded information using a shared public key, which anyone has access to, but requires an agreed upon private key which is a combination fo two individual private keys so that the messages can be decoded but only by the correct people. 
+### Cryptography
+The ceaser cipher works by shifting the alphabet a predetermined number of times so that the original letter is represented by a different one so many letters after it. When you use the ceaser cipher exploration tool and enter "cryptography is a growing field" into it you can turn the wheel to select your shift and dsiplay your encryption. After turing the wheel this displayed as "jyfwavnyhwof pz h nyvdpun mplsk" becuase the shift set a equal to h so each letter was shifted 6 to encode the message. 
+
+When using the frequency fingerprint exploration tool to type in "hello my name is julia what is your name" it displayed that e is the most frequently used letter followed by a and t. For different languages, the most frequent letter would change since different languages have various lengths for the alphabet and various conjugations of verbs and other words. 
+
+A polyalphabetic cipher uses a predetermined shift word of a certain length to convert each letter to a number and then shift each number by the amount of the word length. 
+
+When you type "hello my name is julia" into the message box and use "peanuts" as the shift word it displays "xjmzj gr dfns dm ckqqjo" which is the letter that corresponds to the number of the original letter plus 7 which is the length of the shift word.
+### Brute-Force
+The brute force technique is using every possible decryption for a cipher to decode the message that was encoded. Kerckhoff's principle states that even if everyone knows the cipher works and someone else has the cipher text that it should still be secure. However, the most important part of a cipher is the part that keps the message secret and because of the brute force technique this information is very easy to find. 
