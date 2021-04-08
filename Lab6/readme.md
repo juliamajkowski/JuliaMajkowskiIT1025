@@ -20,3 +20,16 @@ Tim Berners-Lee is the inventor and director of the World Wide Web. He founded W
 HTML5 is the standard markup language for creating web pages. It is a series of elements each with their own function that tells a browser how to display the content. CSS or cascading style sheet is used to format the layout of a webpage and can be used to control multiple pages at once which saves time.  For my webpage I used the CSS Internal format to display the content with a background color, border, and colored heading.
 ### HTML and XML
 XML and HTML are two very different things. XML was created to carry data so it requires a separate program to run or display it. HTML was created to display data. 
+## Components of a URL
+### Scheme 
+A scheme tells the browser what type of address a page is so the browser can connect correctly typically this is http or https. 
+### Domain
+A domain is made up of several parts and is the most prominent part of the web page name. 
+#### Top Level Domain
+The top level domain is the end part of the domain such as the .edu you may see at the end of a webpage URL. 
+### Default Page
+The default page is what loads when you enter a web address but don't specify a certain file path. For example www.amazon.com will take you to the homepage of Amazon.
+### Parameters
+At the end of the path sometimes a URL will have a string of random characters beginning with a question mark.
+### Anchor 
+Also at the end of the path is the anchor. This tells the browser to load a specific part of the page. 
