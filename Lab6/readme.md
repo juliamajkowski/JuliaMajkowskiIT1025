@@ -34,3 +34,4 @@ At the end of the path sometimes a URL will have a string of random characters b
 ### Anchor 
 Also at the end of the path is the anchor. This tells the browser to load a specific part of the page. 
 # Conclusion
+The purpose of this lab is to explore the protocols that provide support for internet communication such as IP, TCP/IP, and HTTP. Additionally the lab will reviewed Internet programming methodologies and practice creating a web page using HTML and CSS. The most difficult part was using the relative path to display the image on the web page and I ended up having to use the absolute path to the original website to get it to display correctly. Overall, the information regarding creating the web page using HTML was the most interesting and is something I look forward to getting more familiar with. 
