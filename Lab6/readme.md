@@ -16,3 +16,5 @@ With today's technology it is important to secure your web browser. This can be 
 ## Internet Programming
 ### World Wide Web Consortium
 Tim Berners-Lee is the inventor and director of the World Wide Web. He founded W3C to develop interoperable technologies in order to lead the web to its full potential. There are many standards involved with W3C. One that is important is web architecture which focuses on technologies and principles which sustain the Web, including HTTP which was discussed previously. 
+### HTML5 and CSS
+HTML5 is the standard markup language for creating web pages. It is a series of elements each with their own function that tells a browser how to display the content. CSS or cascading style sheet is used to format the layout of a webpage and can be used to control multiple pages at once which saves time.  For my webpage I used the CSS Internal format to display the content with a background color, border, and colored heading.
