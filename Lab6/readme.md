@@ -33,3 +33,4 @@ The default page is what loads when you enter a web address but don't specify a 
 At the end of the path sometimes a URL will have a string of random characters beginning with a question mark.
 ### Anchor 
 Also at the end of the path is the anchor. This tells the browser to load a specific part of the page. 
+# Conclusion
