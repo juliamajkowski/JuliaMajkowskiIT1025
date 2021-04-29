@@ -8,3 +8,6 @@ When creating a database, there are several different factors that go into it. F
 ### Big Data
 There are 4 V's that are important in big data. First, the volume or size of the data that is being considered. Second, the variety of data due to the number of possiblities such as emails, photos, or PDFs. Third, velocity or the speed of data generation and processed. Finally, variability or the inconsistency that can be shown by the data over time. All of these thing shave to be taken into consideration when creating storage for big data. The need for big data storage has grown over time due to things like the stock exchange and social media websites and it will continue to grow with their usage. 
 ## Structured Query Language 
+RDBMS or relational database managment systems is the basis for SQL. All daya is stored in tables which is then broken up into smaller fields. This is related to SQL because SQL is is a language used for acessing and manipulating databases such as the RDBMS. 
+
+In the lab diagram, two tables that are related are the customers and employees. The connection between them would be that each order is put together by a specific employee who has their own ID. The primary key for these would be employee ID and custoemr ID. The foreign key would be the order ID which is what connects the two tables. 
